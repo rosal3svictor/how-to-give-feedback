@@ -15,6 +15,7 @@
 
 - [General Knowledge](#general-knowledge)
 - [The iceberg: what should we focus the feedback on?](#the-iceberg-what-should-we-focus-the-feedback-on)
+- [The 4 principles of feedback](#the-four-principles-of-feedback)
 
 # General Knowledge
 
@@ -32,3 +33,27 @@ The first element that you have to take into account makes reference to the so-c
 4. Values
 
 it is important to consider that when you are given feedback, this is much more assimilable, understandable when it is about observed behaviours. This without leaving aside that everything you see from a person is just what is above the line of water, you just can see what they do, their behaviours. When you give feedback about behaviours, you could attempt to improve them but, without compromising attitudes, beliefs, the most inner characteristics of a person. However, when we give feedback about the "doings", we could change the behaviours.
+
+# The 5 principles of feedback
+
+A feedback is not necessarily a performance assesmement, the principles of feedback we touch are associated the the feedback model:
+
+1. For appreciation
+2. For performance assesmement
+3. For coaching
+
+in all of them the following elements must be present:
+
+- Positive feedback is given in public, negative feedback privately
+- Be empathic
+- Never give feedback angry
+- Do not lie to avoid hurting
+- Instead of just working on weaknesses, reinforce the strenghts
+
+We'll tell you what are the elements that make a feedback to be considered as _"good"_:
+
+- **Specific and concrete**: You must give examples, mention times and the impact it had
+- **Timely**: Delivered as soon as possible at the time the events occurred
+- **Balanced**: Positive and negative feedback can be given at the same time.
+
+A culture should be promoted where feedback is valued. One way to do this is by thanking them every time they give us feedback.
