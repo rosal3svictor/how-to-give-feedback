@@ -16,6 +16,7 @@
 - [General Knowledge](#general-knowledge)
 - [The iceberg: what should we focus the feedback on?](#the-iceberg-what-should-we-focus-the-feedback-on)
 - [The 4 principles of feedback](#the-four-principles-of-feedback)
+- [How to structure the feedback](#how-to-structure-the-feedback)
 
 # General Knowledge
 
@@ -57,3 +58,19 @@ We'll tell you what are the elements that make a feedback to be considered as _"
 - **Balanced**: Positive and negative feedback can be given at the same time.
 
 A culture should be promoted where feedback is valued. One way to do this is by thanking them every time they give us feedback.
+
+# How to structure the feedback
+
+Now it's the time to construct your speech to give feedback. We'll use the following equation
+
+```text
+SITUATION  + BEHAVIOUR + IMPACT
+```
+
+The way you should use the formula would be: "When I saw SITUATION, your BEHAVIOUR made me feel THIS WAY, causing IMPACT. I believe we could be more effective if we we something different (ALTERNATIVE). What do you think about this?"
+
+The usage of the previous formula would serve to take off the journey, not without forgetting to be always assertive with our words.
+
+I would like to provide you with an example of how feedback should be given appropriately:
+
+"I've noticed that you haven't been sharing information with the design team and haven't been inviting them to our weekly meetings. They are looking for information, and you are not sharing insights you've come across related to their work. In some meetings, when they express this concern, I've observed that you become defensive and don't take actions to address it. This impacts the quality of work for both teams. What are your thoughts on this?"
